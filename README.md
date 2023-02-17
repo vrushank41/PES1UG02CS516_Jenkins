@@ -1,4 +1,4 @@
-# PES1UGCS516_Jenkins
+# PES1UG20CS516_Jenkins
 CLOUD COMPUTING LAB UE20CS351
 ![Jenkins Pipeline](https://miro.medium.com/max/1400/1*XljFv5ON0CU97NPJVCdaog.png)
 
