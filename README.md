@@ -1,5 +1,6 @@
 # PES1UG02CS516_Jenkins
 CLOUD COMPUTING LAB UE20CS351
+![Jenkins Pipeline](https://miro.medium.com/max/1400/1*XljFv5ON0CU97NPJVCdaog.png)
 
 In simple words, Jenkins Pipeline is a combination of plugins that support the integration 
 and implementation of continuous delivery pipelines using Jenkins. The pipeline as Code 
